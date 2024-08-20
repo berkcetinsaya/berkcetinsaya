@@ -65,6 +65,7 @@
 ## More about me 📫
 <p align="center">
   <a href="https://berkcetinsaya.com/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Webpage-black?style=flat-square"/></a>
+  <a href="https://berkcetinsaya.com/docs/cetinsaya_resume_8_24_public.pdf" target="_blank"><img src="https://img.shields.io/badge/-Resume-orange?style=flat-square"/></a>
   <a href="https://www.researchgate.net/profile/Berk-Cetinsaya" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-darkgreen?style=flat-square&logo=researchgate&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/berkcetinsaya/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?user=dGv4qP8AAAAJ&hl=en&oi=ao" target="_blank"><img src="https://img.shields.io/badge/GoogleScholar-4B83E3?style=flat-square&logo=google-scholar&logoColor=white"/></a>
